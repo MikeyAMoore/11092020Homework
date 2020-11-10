@@ -1,0 +1,54 @@
+<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homework 11/9/2020</title>
+</head>
+<body>
+  <div class="navbar">
+    <a href="#" class="toggle" id="navHamburger">
+      <i class="fas fa-bars"></i>
+      <a href="#" class="brand">Michael Moore</a>
+      <div class="links-wrapper">
+        <a href="#" class="link">Muay Thai</a>
+        <a href="#" class="link">BJJ</a>
+        <a href="#" class="link">Conditioning</a>
+      </div>
+  </div>
+
+	<div class="img-wrapper">
+      <img src="https://i.guim.co.uk/img/media/785a9e0c0b0ab3c3af9eca394774d15a24d8aa7e/0_340_5760_3456/master/5760.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=2c3a6e066c24350941ae070492a0f879">
+      <img src="https://punchermedia.com/wp-content/uploads/2018/06/Muay-Thai-Styles.png">
+      <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/crossfit-g-1556191957.jpg?crop=0.670xw:1.00xh;0,0&resize=768:*"
+   </div>
+		
+	
+	<div class="body-wrapper">
+      <h1>Come Train!</h1>
+      <p>Come train and fight in the UFC in 4 days!</p>
+    </div>
+		
+	<div class="footer">
+   		<div class="footer-links">
+      <div>
+        <a href="#" class="link">Link 1</a>
+      </div>
+      <div>
+        <a href="#" class="link">Link 2</a>
+      </div>
+      <div>
+        <a href="#" class="link">Link 3</a>
+      </div>
+      <div>
+        <a href="#" class="link">Link 4</a>
+      </div>
+      <div>
+        <a href="#" class="link">Link 5</a>
+      </div>
+      <div>
+        <a href="#" class="link">Link 6</a>
+      </div>
+    </div>
+ </body>
+</html>
